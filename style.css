@@ -1,0 +1,21 @@
+.jumbotron {
+	padding-top: 12rem;
+	background-color: #fbedcd;
+	overflow: auto;	 
+}
+
+#projects {
+	background-color: #fbedcd;
+	overflow: auto;	
+}
+
+#jadwal {
+	background-color: #fbedcd;
+	overflow: auto;	
+}
+
+section {
+	padding-top: 5rem;
+	overflow: auto;	
+
+}
